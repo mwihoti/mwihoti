@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Mwihoti
 
-<!--
-**mwihoti/mwihoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -11,5 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: danielmwihoti@gmail.com
 - 😄 Pronouns: he/him
 
--->
-[![GitHub Trends SVG](https://api.githubtrends.io/mwihoti/svg/avgupta456/langs)](https://githubtrends.io)
+
+
+<img src="https://api.githubtrends.io/user/svg/mwihoti/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark" alt />
+
+https://api.githubtrends.io/user/svg/mwihoti/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark
