@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 
 
-<img src="[https://api.githubtrends.io/user/svg/mwihoti/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark](https://api.githubtrends.io/user/svg/mwihoti/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark
-)" alt="stats" />
+<img src="[[https://api.githubtrends.io/user/svg/mwihoti/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark](https://api.githubtrends.io/user/svg/mwihoti/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark
+)](https://api.githubtrends.io/user/svg/mwihoti/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark)" alt="stats" />
 
