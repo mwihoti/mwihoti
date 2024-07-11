@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
+<div align="center gap-20">
   <img src="https://streak-stats.demolab.com?user=mwihoti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <br/>
 
