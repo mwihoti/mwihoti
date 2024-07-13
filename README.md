@@ -1,9 +1,8 @@
 ## Hi there 👋 I am Mwihoti
 
+I am a Software Engineer, proficient in JavaScript, React, Node.js, Express, TypeScript, Python, C and various CMS platforms
 
-
-Here are some ideas to get you started:
-
+Here are some ideas to get you started:  
 - 🔭 I’m currently working on side projects  and personal projects
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me: danielmwihoti@gmail.com
