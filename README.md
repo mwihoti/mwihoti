@@ -1,4 +1,6 @@
-## Hi there 👋 I am Mwihoti
+## Hi there 👋
+
+I am Mwihoti
 
 I am a Software Engineer, proficient in JavaScript, React, Node.js, Express, TypeScript, Python, C and various CMS platforms
 
