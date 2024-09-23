@@ -2,7 +2,7 @@
 
 I am Mwihoti.
 
-I am a software developer, proficient in JavaScript, React, Node.js, Express, TypeScript and Python. In my free time I explore the world of web3 (aptos and zetachain aptos).
+I am a software developer, proficient in JavaScript, React, Node.js, Express, TypeScript and Python. In my free time I explore the world of web3 (aptos and zetachain dapp).
 
 Here are some ideas to get you started:  
 - 🔭 I’m currently working on side projects
