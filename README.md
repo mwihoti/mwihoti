@@ -2,10 +2,10 @@
 
 I am Mwihoti.
 
-I am a Software developer, proficient in JavaScript, React, Node.js, Express, TypeScript, Python, C and various CMS platforms
+I am a software developer, proficient in JavaScript, React, Node.js, Express, TypeScript and Python. In my free time I explore the world of web3 (aptos and zetachain aptos).
 
 Here are some ideas to get you started:  
-- 🔭 I’m currently working on side projects  and personal projects
+- 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me: danielmwihoti@gmail.com
 - 😄 Pronouns: he/him
