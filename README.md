@@ -1,5 +1,6 @@
 # 💫 About Me:
-# Hi there 👋<br><br>I am Mwihoti.<br><br>I am a software developer, proficient in JavaScript, React, Node.js, Express, TypeScript and Python. In my free time I explore the world of web3 (aptos and zetachain dapp).<br><br>Here are some ideas to get you started:  <br>- 🔭 I’m currently working on side projects<br>- 🌱 I’m currently learning software engineering<br>- 📫 How to reach me: danielmwihoti@gmail.com<br>- 😄 Pronouns: he/him
+# Hi there 👋<br>
+<br>I am Mwihoti.<br><br>I am a software developer, proficient in JavaScript, React, Node.js, Express, TypeScript and Python. In my free time I explore the world of web3 (aptos and zetachain dapp).<br><br>Here are some ideas to get you started:  <br>- 🔭 I’m currently working on side projects<br>- 🌱 I’m currently learning software engineering<br>- 📫 How to reach me: danielmwihoti@gmail.com<br>- 😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
@@ -10,7 +11,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mwihoti&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mwihoti&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwihoti&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mwihoti&icon=0&color=0)](https://visitcount.itsvg.in)
