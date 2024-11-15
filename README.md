@@ -1,6 +1,13 @@
-# 💫 About Me:
-# Hi there 👋<br>
-<br>I am Mwihoti.<br><br>I am a software developer, proficient in JavaScript, React, Node.js, Express, TypeScript and Python. In my free time I explore the world of web3 (aptos and zetachain dapp).<br><br>Here are some ideas to get you started:  <br>- 🔭 I’m currently working on side projects<br>- 🌱 I’m currently learning software engineering<br>- 📫 How to reach me: danielmwihoti@zohomail.com<br>- 😄 Pronouns: he/him
+About Me
+Hi, I’m Mwihoti—a passionate and versatile software developer skilled in modern web technologies and frameworks. I specialize in JavaScript, React, Node.js, Express, TypeScript, and Python, and I’m constantly exploring the intersection of cutting-edge technologies like Web3 and AI/ML.
+
+In my free time, I enjoy diving into decentralized ecosystems like Aptos and ZetaChain to build innovative dApps, as well as experimenting with new tools and frameworks to expand my skill set.
+
+What I’m Working On
+🔭 Building exciting side projects to solve real-world problems.
+🌱 Expanding my expertise in Web3, machine learning, and fullstack development.
+🚀 Exploring opportunities to collaborate with like-minded individuals on innovative projects.
+<br>- 📫 How to reach me: danielmwihoti@zohomail.com<br>- 😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
