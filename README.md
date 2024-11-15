@@ -1,5 +1,5 @@
 # About Me <br>
-Hi, I’m <b>Mwihoti<b>
+Hi, I’m <b>Mwihoti</b>
 <br>
 A passionate and versatile software developer skilled in modern web technologies and frameworks. I specialize in JavaScript, React, Node.js, Express, TypeScript, and Python, and I’m constantly exploring the intersection of cutting-edge technologies like Web3 and AI/ML.<br>
 
