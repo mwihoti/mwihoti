@@ -1,7 +1,7 @@
-About Me
-Hi, I’m Mwihoti—a passionate and versatile software developer skilled in modern web technologies and frameworks. I specialize in JavaScript, React, Node.js, Express, TypeScript, and Python, and I’m constantly exploring the intersection of cutting-edge technologies like Web3 and AI/ML.
+# About Me <br>
+Hi, I’m Mwihoti—a passionate and versatile software developer skilled in modern web technologies and frameworks. I specialize in JavaScript, React, Node.js, Express, TypeScript, and Python, and I’m constantly exploring the intersection of cutting-edge technologies like Web3 and AI/ML.<br>
 
-In my free time, I enjoy diving into decentralized ecosystems like Aptos and ZetaChain to build innovative dApps, as well as experimenting with new tools and frameworks to expand my skill set.
+In my free time, I enjoy diving into decentralized ecosystems like Aptos and ZetaChain to build innovative dApps, as well as experimenting with new tools and frameworks to expand my skill set.<br>
 
 What I’m Working On
 🔭 Building exciting side projects to solve real-world problems.
