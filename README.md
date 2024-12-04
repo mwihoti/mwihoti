@@ -8,11 +8,7 @@ Highly motivated Full-Stack Developer with a passion for creating reliable, effi
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mwihoti) 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mwihoti&theme=dark&hide_border=true)<br/>
-
----
 [![](https://visitcount.itsvg.in/api?id=mwihoti&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
