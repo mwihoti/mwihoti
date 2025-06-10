@@ -1,7 +1,7 @@
 # About Me <br>
-Hi, I’m <b>Mwihoti</b>
+Hi, I’m Mwihoti<b>Mwihoti</b>
 <br>
-versatile and skilled  Full-Stack Developer with a passion for creating reliable, efficient, and user-centric applications. With a strong background in both Front-end and Back-end development. My tech stack includes but not limited to JavaScript-vue.js, TypeScript, Node.js and its frameworks, Python, SQL&NOSQL databases and Git. I also have experience in Machine Learning and AI, leveraging data-driven solutions to solve real-world problems. Additionally, I have a strong understanding of Web3 technologies and enjoy building decentralized applications (dApps) that harness the power of blockchain to create innovative and secure solutions.<br>
+A Developer. Thinker. Doer. I build digital tools that make life easier. From backend systems to blockchain dApps, I enjoy crafting meaningful, scalable solutions — and helping others do the same.<br>
 
 
 
