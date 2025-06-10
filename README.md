@@ -1,5 +1,5 @@
 # About Me <br>
-Hi, I’m Mwihoti<b>Mwihoti</b>
+Hi, I’m <b>Mwihoti</b>
 <br>
 A Developer. Thinker. Doer. I build digital tools that make life easier. From backend systems to blockchain dApps, I enjoy crafting meaningful, scalable solutions — and helping others do the same.<br>
 
